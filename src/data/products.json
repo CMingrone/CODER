@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "title": "Leche Entera",
+    "description": "Leche entera en sachet 1L",
+    "code": "LEC001",
+    "price": 580,
+    "status": true,
+    "stock": 100,
+    "category": "lácteos",
+    "thumbnails": [
+      "img/leche1.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Pan Lactal",
+    "description": "Pan lactal blanco sin corteza",
+    "code": "PAN002",
+    "price": 720,
+    "status": true,
+    "stock": 80,
+    "category": "panadería",
+    "thumbnails": [
+      "img/pan1.jpg"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Yerba Mate",
+    "description": "Yerba mate con palo 1kg",
+    "code": "YER003",
+    "price": 1700,
+    "status": true,
+    "stock": 50,
+    "category": "bebidas",
+    "thumbnails": [
+      "img/yerba1.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Aceite de Girasol",
+    "description": "Aceite de girasol 1.5L",
+    "code": "ACE004",
+    "price": 2000,
+    "status": true,
+    "stock": 60,
+    "category": "almacén",
+    "thumbnails": [
+      "img/aceite1.jpg"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Huevos",
+    "description": "Maple de 12 huevos",
+    "code": "HUE005",
+    "price": 1200,
+    "status": true,
+    "stock": 30,
+    "category": "frescos",
+    "thumbnails": [
+      "img/huevos1.jpg"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Queso Cremoso",
+    "description": "Queso cremoso x 500g",
+    "code": "QUE006",
+    "price": 2800,
+    "status": true,
+    "stock": 40,
+    "category": "lácteos",
+    "thumbnails": [
+      "img/queso1.jpg"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "Jugo de Naranja",
+    "description": "Jugo exprimido 1L",
+    "code": "JUG007",
+    "price": 950,
+    "status": true,
+    "stock": 75,
+    "category": "bebidas",
+    "thumbnails": [
+      "img/jugo1.jpg"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Arroz Largo Fino",
+    "description": "Paquete de arroz 1kg",
+    "code": "ARR008",
+    "price": 780,
+    "status": true,
+    "stock": 90,
+    "category": "almacén",
+    "thumbnails": [
+      "img/arroz1.jpg"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Harina 0000",
+    "description": "Harina de trigo refinada 1kg",
+    "code": "HAR009",
+    "price": 650,
+    "status": true,
+    "stock": 95,
+    "category": "almacén",
+    "thumbnails": [
+      "img/harina1.jpg"
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Fideos Spaghetti",
+    "description": "Fideos secos tipo spaghetti 500g",
+    "code": "FID010",
+    "price": 850,
+    "status": true,
+    "stock": 85,
+    "category": "almacén",
+    "thumbnails": [
+      "img/fideos1.jpg"
+    ]
+  }
+]
